@@ -7,4 +7,4 @@ let num2: number;
 num1 = 135;
 num2 = 258;
 
-console.log('num1');
+console.log('num1');S
